@@ -1,6 +1,6 @@
 # project
 
-FIT3077 project repository
+HealthMonitor project repository
 
 Instruction to Open the Project:
 1) Open the Project using the pom.xml file from top level of the project file.
