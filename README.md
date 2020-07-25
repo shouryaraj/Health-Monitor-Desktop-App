@@ -1,7 +1,23 @@
-<h1 align="center"> HealthMonitor project repository</h1>
+<h1 align="center"> HealthMonitor project</h1>
 
 <a name="desc"></a>
 ## 1. Description
+
+An application that helps health practitioners monitor the vitalsof
+their patients. The application need to connect to a FHIR server that stores electronic medical records
+(EMRs).
+
+***Features in the App ***
+1. Options to select multiple vitals
+2. Graph visualisation to monitor vitals
+3. Multiple patient monitoring system
+4. Dynamice selection of the frequency of refreshing the data
+5. Summarised view of the patient details with the vitals
+6. Different view if the vital reading is not in normal range.
+7. Selection of the normal range for the vital
+
+***UML for the App***
+<img src="./DesignDocuments/Second iteration/Design Documents\uml.svg" width="100%">
 
 
 
