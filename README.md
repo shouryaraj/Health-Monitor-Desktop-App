@@ -1,8 +1,4 @@
-# HealthMonitor project repository
-
-**1. [Description. ] (#desc)**
-**2. [Usage Instruciton. ] (#usage)**
-
+<h1 align="center"> HealthMonitor project repository</h1>
 
 <a name="desc"></a>
 ## 1. Description
