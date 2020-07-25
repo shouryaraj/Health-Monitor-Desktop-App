@@ -3,11 +3,11 @@
 <a name="desc"></a>
 ## 1. Description
 
-An application that helps health practitioners monitor the vitalsof
+An application that helps health practitioners monitor the vitals of
 their patients. The application need to connect to a FHIR server that stores electronic medical records
 (EMRs).
 
-***Features in the App ***
+**Features in the App **
 1. Options to select multiple vitals
 2. Graph visualisation to monitor vitals
 3. Multiple patient monitoring system
@@ -16,9 +16,17 @@ their patients. The application need to connect to a FHIR server that stores ele
 6. Different view if the vital reading is not in normal range.
 7. Selection of the normal range for the vital
 
-***UML for the App***
-<img src="./DesignDocuments/Second iteration/Design Documents\uml.svg" width="100%">
+**UML for the App**
+<img src="./DesignDocuments/Second iteration/Design Documents\uml.svg" width="130%"> 
 
+
+
+**Design Rational of the Application**
+*included the resaon for the design choices, design patterns and design principles.*
+1. First iteration
+<a  href="https://github.com/shouryaraj/Health_Monitor_Desktop_App/blob/master/DesignDocuments/First%20iteration/DesignDocuments/Assignment2/Design%20Rationale.pdf">Click here</a>
+2.Second iteration
+<a  href="https://github.com/shouryaraj/Health_Monitor_Desktop_App/blob/master/DesignDocuments/Second%20iteration/Design%20Documents/Design%20Rationale.docx">Click here</a>
 
 
 <a name="usage"></a>
